@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\bin\Debug\net8.0\Exercicio-PadraoState.exe
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\bin\Debug\net8.0\Exercicio-PadraoState.deps.json
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\bin\Debug\net8.0\Exercicio-PadraoState.runtimeconfig.json
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\bin\Debug\net8.0\Exercicio-PadraoState.dll
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\bin\Debug\net8.0\Exercicio-PadraoState.pdb
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\Exercicio-PadraoState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\Exercicio-PadraoState.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\Exercicio-PadraoState.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\Exercicio-PadraoState.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\Exercicio-PadraoState.dll
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\refint\Exercicio-PadraoState.dll
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\Exercicio-PadraoState.pdb
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\Exercicio-PadraoState.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Padroes-Comportamentais\State\Exercicio-Padrao-State\Exercicio-PadraoState\obj\Debug\net8.0\ref\Exercicio-PadraoState.dll
